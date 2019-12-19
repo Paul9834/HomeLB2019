@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
@@ -51,7 +50,7 @@
     <header class="masthead" style="background-image:url('assets/img/header-bg.jpg');">
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in"><span data-aos="fade">Bienvenido a nuestra página web!</span></div>
+                <div class="intro-lead-in"><span data-aos="fade">¡  Bienvenido a nuestra página web!</span></div>
                 <div class="intro-heading text-uppercase"><span data-aos="fade-up">bici-retos</span></div><a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" role="button" data-aos="zoom-in" data-aos-delay="150" data-aos-once="true" href="#services">cuentame más</a></div>
         </div>
     </header>
@@ -105,34 +104,6 @@
             </div>
         </div>
     </section>
-    <div class="team-clean">
-        <div class="container">
-            <div class="intro">
-                <h2 class="text-center">Team </h2>
-                <p class="text-center">Nunc luctus in metus eget fringilla. Aliquam sed justo ligula. Vestibulum nibh erat, pellentesque ut laoreet vitae. </p>
-            </div>
-            <div class="row people">
-                <div class="col-md-6 col-lg-4 item"><img class="rounded-circle" src="assets/img/1.jpg">
-                    <h3 class="name">Kevin Paul Montealegre 🖐 </h3>
-                    <p class="title">Musician</p>
-                    <p class="description">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, et interdum justo suscipit id. Etiam dictum feugiat tellus, a semper massa. </p>
-                    <div class="social"><a href="#"><i class="fa fa-facebook-official"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a></div>
-                </div>
-                <div class="col-md-6 col-lg-4 item"><img class="rounded-circle" src="assets/img/2.jpg">
-                    <h3 class="name">Emily Clark</h3>
-                    <p class="title">Artist</p>
-                    <p class="description">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, et interdum justo suscipit id. Etiam dictum feugiat tellus, a semper massa. </p>
-                    <div class="social"><a href="#"><i class="fa fa-facebook-official"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a></div>
-                </div>
-                <div class="col-md-6 col-lg-4 item"><img class="rounded-circle" src="assets/img/3.jpg">
-                    <h3 class="name">Carl Kent</h3>
-                    <p class="title">Stylist</p>
-                    <p class="description">Aenean tortor est, vulputate quis leo in, vehicula rhoncus lacus. Praesent aliquam in tellus eu gravida. Aliquam varius finibus est, et interdum justo suscipit id. Etiam dictum feugiat tellus, a semper massa. </p>
-                    <div class="social"><a href="#"><i class="fa fa-facebook-official"></i></a><a href="#"><i class="fa fa-twitter"></i></a><a href="#"><i class="fa fa-instagram"></i></a></div>
-                </div>
-            </div>
-        </div>
-    </div>
 
     <div align="center">
     <a href="https://info.flagcounter.com/rOkQ"><img src="https://s11.flagcounter.com/count2/rOkQ/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
