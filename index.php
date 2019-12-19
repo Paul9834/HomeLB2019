@@ -50,7 +50,7 @@
     <header class="masthead" style="background-image:url('assets/img/header-bg.jpg');">
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in"><span data-aos="fade">¡  Bienvenido a nuestra página web!</span></div>
+                <div class="intro-lead-in"><span data-aos="fade">¡Bienvenido a nuestra página web!</span></div>
                 <div class="intro-heading text-uppercase"><span data-aos="fade-up">bici-retos</span></div><a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" role="button" data-aos="zoom-in" data-aos-delay="150" data-aos-once="true" href="#services">cuentame más</a></div>
         </div>
     </header>
