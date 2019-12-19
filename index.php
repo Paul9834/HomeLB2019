@@ -75,14 +75,12 @@
 
                                 echo "<table class='table'>";
                                 echo "<tr>";
-                                echo "<th>id</th>";
                                 echo "<th>dato1</th>";
                                 echo "<th>dato2</th>";
                                 echo "<th>fecha</th>";
                                 echo "</tr>";
                                 while ($row = mysqli_fetch_array($res)) {
                                     echo "<tr>";
-                                    echo "<td>" . $row['id'] . "</td>";
                                     echo "<td>" . $row['dato'] . "</td>";
                                     echo "<td>" . $row['dato2'] . "</td>";
                                     echo "<td>" . $row['horadecreacion'] . "</td>";
