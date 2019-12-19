@@ -66,6 +66,7 @@
                 <div class="col">
                     <div align="center">
                         <meta http-equiv="refresh" content="10">
+
                         <?php
                         $link = mysqli_connect("35.199.40.228", "paul9834", "paul9834", "labview");
                         $sql = "SELECT * FROM datos ORDER BY id  DESC  LIMIT  10";
@@ -75,14 +76,20 @@
 
                                 echo "<table class='table'>";
                                 echo "<tr>";
+                                echo "<th>id</th>";
                                 echo "<th>dato1</th>";
                                 echo "<th>dato2</th>";
+                                echo "<th>dato3</th>";
+                                echo "<th>dato4</th>";
                                 echo "<th>fecha</th>";
                                 echo "</tr>";
                                 while ($row = mysqli_fetch_array($res)) {
                                     echo "<tr>";
+                                    echo "<td>" . $row['id'] . "</td>";
                                     echo "<td>" . $row['dato'] . "</td>";
                                     echo "<td>" . $row['dato2'] . "</td>";
+                                    echo "<td>" . $row['dato3'] . "</td>";
+                                    echo "<td>" . $row['dato4'] . "</td>";
                                     echo "<td>" . $row['horadecreacion'] . "</td>";
                                     echo "</tr>";
                                 }
@@ -96,6 +103,8 @@
                         }
                         mysqli_close($link);
                         ?>
+
+                        
                     </div>
 
                 </div>
