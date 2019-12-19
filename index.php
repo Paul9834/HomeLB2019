@@ -66,6 +66,7 @@
             <div class="row text-center">
                 <div class="col">
                     <div align="center">
+                        <meta http-equiv="refresh" content="10">
                         <?php
                         $link = mysqli_connect("35.199.40.228", "paul9834", "paul9834", "labview");
                         $sql = "SELECT * FROM datos";
