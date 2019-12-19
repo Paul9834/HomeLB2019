@@ -69,10 +69,12 @@
                         <meta http-equiv="refresh" content="10">
                         <?php
                         $link = mysqli_connect("35.199.40.228", "paul9834", "paul9834", "labview");
-                        $sql = "SELECT * FROM datos";
+                        $sql = "SELECT * FROM datos ORDER BY id  DESC  LIMIT  10";
+
                         if ($res = mysqli_query($link, $sql)) {
                             if (mysqli_num_rows($res) > 0) {
-                                echo "<table>";
+
+                                echo "<table class='table'>";
                                 echo "<tr>";
                                 echo "<th>id</th>";
                                 echo "<th>dato1</th>";
